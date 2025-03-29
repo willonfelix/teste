@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "N28hZp+KwO4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\teste\\myDotnetFunction\\src\\myDotnetFunction\\myDotnetFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\amazon.lambda.core\\2.5.0\\amazon.lambda.core.2.5.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.4\\amazon.lambda.serialization.systemtextjson.2.4.4.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.13\\microsoft.netcore.app.runtime.linux-x64.8.0.13.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.13\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.13.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.13\\microsoft.netcore.app.crossgen2.win-x64.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

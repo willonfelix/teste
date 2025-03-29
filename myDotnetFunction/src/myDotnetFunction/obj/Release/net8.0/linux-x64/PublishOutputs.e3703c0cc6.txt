@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documents\GitHub\teste\myDotnetFunction\src\myDotnetFunction\bin\Release\net8.0\publish\myDotnetFunction.deps.json
+C:\Users\Usuario\Documents\GitHub\teste\myDotnetFunction\src\myDotnetFunction\bin\Release\net8.0\publish\myDotnetFunction.runtimeconfig.json
+C:\Users\Usuario\Documents\GitHub\teste\myDotnetFunction\src\myDotnetFunction\bin\Release\net8.0\publish\myDotnetFunction.pdb
+C:\Users\Usuario\Documents\GitHub\teste\myDotnetFunction\src\myDotnetFunction\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Usuario\Documents\GitHub\teste\myDotnetFunction\src\myDotnetFunction\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Usuario\Documents\GitHub\teste\myDotnetFunction\src\myDotnetFunction\bin\Release\net8.0\publish\myDotnetFunction.dll
